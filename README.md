@@ -35,6 +35,6 @@ Join our Telegram channel [@BO_NND](https://t.me/BO_NND) for updates, discussion
 ## المطورون و المساهمون: 
 [@Mr_PYT_HON](https://t.me/Mr_PYT_HON)
 
-[@Mr_BOND](https://t.me/Mr_BOOND) 
+[@Mr_BOOND](https://t.me/Mr_BOOND) 
 
 [@Monther_Mohammed](https://t.me/Monther_Mohammed)
