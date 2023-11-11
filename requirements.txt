@@ -1,0 +1,9 @@
+aiohttp==3.8.1
+certifi==2021.10.8
+cfscrape==2.1.1
+colorama==0.4.4
+ipaddress==1.0.23
+requests==2.26.0
+rich==10.7.0
+sublist3r==1.1.0
+termcolor==1.1.0
