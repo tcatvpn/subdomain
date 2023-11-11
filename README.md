@@ -19,3 +19,5 @@ Run the script: python checkfpi.pyEnter the target domain when prompted.Subdomai
 3. pip install requests loguru multithreading bugscanner
 4. pkg install golang
 5. pkg install vim
+6. pkg install pip
+7. 
