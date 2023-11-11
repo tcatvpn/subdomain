@@ -1,4 +1,4 @@
-# checkfpi
+9# checkfpi
 
 ## Description
 This tool, created by MrBOOND, is designed for domain enumeration and analysis. It extracts subdomains, checks for hidden subdomains, gathers DNS and SSL information, and provides additional functionalities like scanning for subdomains, CDN-SSL scanning, SNI scanning, and IP range scanning.
@@ -30,4 +30,4 @@ Run the script: python checkfpi.pyEnter the target domain when prompted.Subdomai
 
 
 ### Connect with Us:
-Join our Telegram channel [@BO_NND](https://t.me /BO_NND) for updates, discussions, and support related to checkfpi.py. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information you'd like users to know about your Telegram channel.
+Join our Telegram channel [@BO_NND](https://t.me/BO_NND) for updates, discussions, and support related to checkfpi.py. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information you'd like users to know about your Telegram channel.
