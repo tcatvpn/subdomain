@@ -20,10 +20,11 @@ Run the script: python checkfpi.pyEnter the target domain when prompted.Subdomai
 4. pkg install golang
 5. pkg install vim
 6. pkg install pip
-7. git clone https://github.com/BOONNDD/scan
-8. cd scan
-9. pip install -r requirements.txt
-10. python3 checkfpi.py
+7. apt install cfscrape
+8. git clone https://github.com/BOONNDD/scan
+9. cd scan
+10. pip install -r requirements.txt
+11. python3 checkfpi.py
 
 
 ## 🙂
