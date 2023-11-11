@@ -1,4 +1,4 @@
-9# checkfpi
+#### checkfpi
 
 ## Description
 This tool, created by MrBOOND, is designed for domain enumeration and analysis. It extracts subdomains, checks for hidden subdomains, gathers DNS and SSL information, and provides additional functionalities like scanning for subdomains, CDN-SSL scanning, SNI scanning, and IP range scanning.
