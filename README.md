@@ -26,5 +26,6 @@ Run the script: python checkfpi.pyEnter the target domain when prompted.Subdomai
 10. python3 checkfpi.py
 
 
-
 ## 🙂
+
+#### Connect with us: - **Telegram Channel:** [@BO_NND](https://t.me /BO_NND) - Join our Telegram channel for updates, discussions and support related to this tool. ...Feel free to customize messages to best suit your communication preferences. 
