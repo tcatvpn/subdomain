@@ -32,3 +32,7 @@ Run the script: python checkfpi.pyEnter the target domain when prompted.Subdomai
 
 ### Connect with Us:
 Join our Telegram channel [@BO_NND](https://t.me/BO_NND) for updates, discussions, and support related to checkfpi.py. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information 
+## المطورون و المساهمون: 
+[@Mr_PYT_HON](https://t.me/Mr_PYT_HON)
+[@Mr_BOND](https://t.me/Mr_BOOND)
+[@Monther_Mohammed](https://t.me/Monther_Mohammed)
