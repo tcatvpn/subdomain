@@ -1,4 +1,4 @@
-import time                                                                 
+import time
 import sublist3r
 import requests
 import shutil
