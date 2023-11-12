@@ -117,9 +117,8 @@ def main():
 
 
 def use_checkfree_tool():
-    with open('domains.txt', 'r') as file:
+    with open('domainsOK.txt', 'r') as file:
         hosts = file.readlines()
-    print(colored("Created By Chatgpt ", 'blue'))
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = [executor.submit(check_address, re.sub(r'^(https?://)?', r'https://', host.strip())) for host in hosts]
 
