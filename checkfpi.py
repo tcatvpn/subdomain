@@ -160,10 +160,12 @@ def b():
         subprocess.run(['pkg', 'install', 'golang',])
         subprocess.run(['go', 'install', '-v', 'github.com/aztecrabbit/bugscanner-go@latest'])
         console.print("[green]Bugscanner-go installed successfully![/green]")
+
 def bugscanner_subdomain_scan():
     target_file = 'domains.txt'
     target_proxy = console.input("[yellow]Enter proxy IP[/yellow]: ")
-    bugscanner_command = f"bugscanner --mode direct --proxy {target_proxy} --port 443 {target_file}"
+    target_port = console.input("[yellow]Enter target port[/yellow] (default is 443): ") or '443'
+    bugscanner_command = f"bugscanner --mode direct --proxy {target_proxy} --port {target_port} {target_file}"
     os.system(bugscanner_command)
 
     console.print("[red]Scan complete[/red].")
