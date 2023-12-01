@@ -127,7 +127,7 @@ def use_checkfree_tool():
 
 def second_menu():
     console = Console()
-    console.print("[bold green]Telegram: @BO_NND [/bold green]\n")
+    console.print("[bold green]Telegram: @SSLHTUNNELMAX [/bold green]\n")
     console.print("[bold blue][1] Extract Subdomains[/bold blue]")
     console.print("[bold green][2] Scan for Subdomains via Bugscanner[/bold green]")
     console.print("[bold yellow][3] CDN-SSL Scan via Bugscanner[/bold yellow]")
@@ -282,20 +282,7 @@ def print_status(address, status_code, server):
 if __name__ == "__main__":
     os.system('clear')
 
-fpi = f'''
-
-              ,,                                         ,...          ,,
-  .g8"""bgd `7MM                       `7MM            .d' ""          db
-.dP'     `M   MM                         MM            dM
-dM'       `   MMpMMMb.  .gP"Ya   ,p6"bo  MM  ,MP'     mMMmm`7MMpdMAo.`7MM
-MM            MM    MM ,M'   Yb 6M'  OO  MM ;Y         MM    MM   `Wb  MM
-MM.           MM    MM 8M"""""" 8M       MM;Mm         MM    MM    M8  MM
-`Mb.     ,'   MM    MM YM.    , YM.    , MM `Mb.       MM    MM   ,AP  MM
-  `"bmmmd'  .JMML  JMML.`Mbmmd'  YMbmd'.JMML. YA.    .JMML.  MMbmmd' .JMML.
-                                                             MM
-                                                           .JMML.
-
-'''
+<FONT size=12 color="#000000">▬▬▬▬▬▬</font><FONT size=12 color="#FF0000">▬▬▬▬▬▬</font><FONT size=12 color="#FFD700">▬▬▬▬▬▬</font><br><FONT size=12 color="#00CED1">╔╗─╔╗╔═╗╔══╗╔═╗╔╗─╔╦╗╔══╗</font><br><FONT size=12 color="#00BFFF">║╚╦╝║║╬║║══╣║╬║║║─║║║║══╣</font><br><FONT size=12 color="#4169E1">╚╗║╔╝║╔╝╠══║║╔╝║╚╗║║║╠══║</font><br><FONT size=12 color="#0000CD">─╚═╝─╚╝─╚══╝╚╝─╚═╝╚═╝╚══╝</font><br><br><b><FONT size=12 color="#A9A9A9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◤ Best Script Manager VPS ◥</font></b><br><br>
 console = Console()
 
 B = "=========by: SSLHTUNNELMAX \n                         Telegram :@SSLHTUNNELMAX \n"
