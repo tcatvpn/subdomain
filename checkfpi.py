@@ -298,7 +298,7 @@ MM.           MM    MM 8M"""""" 8M       MM;Mm         MM    MM    M8  MM
 '''
 console = Console()
 
-B = "                            by: MrBOOND\n                         Telegram :@BO_NND \n"
+B = "=========by: SSLHTUNNELMAX \n                         Telegram :@SSLHTUNNELMAX \n"
 
 for char in B:
     if char.isalpha():
