@@ -127,7 +127,7 @@ def use_checkfree_tool():
 
 def second_menu():
     console = Console()
-    console.print("[bold green]Telegram: @SSLHTUNNEL [/bold green]\n")
+    console.print("[bold green]Telegram: @SSLHTUNNELMAX [/bold green]\n")
     console.print("[bold blue][1] Extract Subdomains[/bold blue]")
     console.print("[bold green][2] Scan for Subdomains via Bugscanner[/bold green]")
     console.print("[bold yellow][3] CDN-SSL Scan via Bugscanner[/bold yellow]")
