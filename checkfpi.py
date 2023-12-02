@@ -282,7 +282,13 @@ def print_status(address, status_code, server):
 if __name__ == "__main__":
     os.system('clear')
 
-<FONT size=12 color="#000000">▬▬▬▬▬▬</font><FONT size=12 color="#FF0000">▬▬▬▬▬▬</font><FONT size=12 color="#FFD700">▬▬▬▬▬▬</font><br><FONT size=12 color="#00CED1">╔╗─╔╗╔═╗╔══╗╔═╗╔╗─╔╦╗╔══╗</font><br><FONT size=12 color="#00BFFF">║╚╦╝║║╬║║══╣║╬║║║─║║║║══╣</font><br><FONT size=12 color="#4169E1">╚╗║╔╝║╔╝╠══║║╔╝║╚╗║║║╠══║</font><br><FONT size=12 color="#0000CD">─╚═╝─╚╝─╚══╝╚╝─╚═╝╚═╝╚══╝</font><br><br><b><FONT size=12 color="#A9A9A9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◤ Best Script Manager VPS ◥</font></b><br><br>
+           _                         
+          | |                        
+ ___ _   _| |__  ___  ___ __ _ _ __  
+/ __| | | | '_ \/ __|/ __/ _` | '_ \ 
+\__ \ |_| | |_) \__ \ (_| (_| | | | |
+|___/\__,_|_.__/|___/\___\__,_|_| |_|
+                                By: SSLHTUNNELMAX 
 console = Console()
 
 B = "=========by: SSLHTUNNELMAX \n                         Telegram :@SSLHTUNNELMAX \n"
