@@ -75,7 +75,7 @@ def remove_text_from_file(file_name, text_to_remove):
             if text_to_remove not in line:
                 file.write(line)
 
-text_to_remove = '*.sa.zain.com'
+text_to_remove = '*.google.com'
 remove_text_from_file(file_name, text_to_remove)
 
 def main():
