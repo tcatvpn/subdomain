@@ -284,7 +284,7 @@ if __name__ == "__main__":
 
 fpi = f'''
 
-                   _                         
+           _                         
           | |                        
  ___ _   _| |__  ___  ___ __ _ _ __  
 / __| | | | '_ \/ __|/ __/ _` | '_ \ 
@@ -294,7 +294,7 @@ fpi = f'''
 '''
 console = Console()
 
-B = "=========by: SSLHTUNNELMAX \n                         Telegram :@SSLHTUNNELMAX \n"
+B ="=========by: SSLHTUNNELMAX \n                         Telegram :@SSLHTUNNELMAX \n"
 
 for char in B:
     if char.isalpha():
