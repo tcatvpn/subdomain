@@ -16,4 +16,6 @@
 
 9. pip install -r requirements.txt
 
-10. python3 scan.py
+10. echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc
+
+11. python3 scan.py
