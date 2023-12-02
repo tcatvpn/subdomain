@@ -1,5 +1,6 @@
-pkg update && pkg upgrade -y
-pkg install python
+1. pkg update && pkg upgrade -y
+
+2. pkg install python
 pkg install python3
 pip install requests loguru multithreading bugscanner
 pkg install golang
