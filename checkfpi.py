@@ -284,16 +284,12 @@ if __name__ == "__main__":
 
 fpi = f'''
 
-              ,,                                         ,...          ,,
-  .g8"""bgd `7MM                       `7MM            .d' ""          db
-.dP'     `M   MM                         MM            dM
-dM'       `   MMpMMMb.  .gP"Ya   ,p6"bo  MM  ,MP'     mMMmm`7MMpdMAo.`7MM
-MM            MM    MM ,M'   Yb 6M'  OO  MM ;Y         MM    MM   `Wb  MM
-MM.           MM    MM 8M"""""" 8M       MM;Mm         MM    MM    M8  MM
-`Mb.     ,'   MM    MM YM.    , YM.    , MM `Mb.       MM    MM   ,AP  MM
-  `"bmmmd'  .JMML  JMML.`Mbmmd'  YMbmd'.JMML. YA.    .JMML.  MMbmmd' .JMML.
-                                                             MM
-                                                           .JMML.
+                   _                         
+          | |                        
+ ___ _   _| |__  ___  ___ __ _ _ __  
+/ __| | | | '_ \/ __|/ __/ _` | '_ \ 
+\__ \ |_| | |_) \__ \ (_| (_| | | | |
+|___/\__,_|_.__/|___/\___\__,_|_| |_|
 
 '''
 console = Console()
